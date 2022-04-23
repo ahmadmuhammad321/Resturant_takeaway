@@ -1,3 +1,7 @@
+# Project Description
+This project is based on the restaurant takeaway model, and it is performing CRUD operations as well as search operations on mySQL database using API requests.
+
+
 "# Resturant_takeaway" 
 * Install Spring Tool Suite.
 * Import this project into its workspace.
