@@ -1,5 +1,5 @@
 # Project Description
-This project is based on the restaurant takeaway model, and it is performing CRUD operations as well as search operations on mySQL database using API requests.
+This project is based on the restaurant takeaway model in which user can place an order and can pick it up from branch at the given time, and it is performing CRUD(create, read, update and delete) operations as well as search operations on mySQL database using API requests.
 
 
 "# Resturant_takeaway" 
